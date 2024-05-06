@@ -1,7 +1,7 @@
 #include <stdio.h>
-
+//para usar librerias se utiliza extern
 int main() {
-    // Write C code here
+   
     int num,contador,factorial = 1;
     
     printf("introduzca un numero para calcular el factorial: \n");
