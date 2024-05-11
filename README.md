@@ -1,3 +1,3 @@
 # pruebas.py
-practica programas .py
-repositorio para python practicas 
+practica programas de diversos lenguajes de programacion
+repositorio para practicas!!!! 
