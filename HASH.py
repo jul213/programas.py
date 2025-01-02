@@ -8,9 +8,9 @@ class HASH:
 x=0
 while x<1:
     print("escoge el hash que quieres utilizar")
-    print("SHA256")
-    print("SHA512")
-    print("ACABA EL PROGRAMA")
+    print("1-SHA256")
+    print("2-SHA512")
+    print("3-ACABA EL PROGRAMA")
 
     eleccion=int(input())
     
