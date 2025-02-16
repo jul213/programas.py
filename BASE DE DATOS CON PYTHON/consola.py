@@ -17,3 +17,4 @@ cur.fetchall()
 
 for row in cur:
     print (row)
+
