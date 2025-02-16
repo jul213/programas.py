@@ -1,4 +1,4 @@
-import psycopg2
+import psycopg2  #base de datos de postgres
 
 conn = psycopg2.connect("
 dbname = productos
