@@ -7,3 +7,6 @@ password = bases
 host = url
 port = 8000
 ")
+
+
+cur = conn.cursor()
