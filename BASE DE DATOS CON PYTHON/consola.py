@@ -10,3 +10,5 @@ port = 8000
 
 
 cur = conn.cursor()
+
+cur.execute("select * from pokemon;")
