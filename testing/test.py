@@ -5,7 +5,7 @@ class SimpleTest(unittest.TestCase):
         self.assertTrue(True)
 
 
-    def test_Uper(self):
+    def test_Upper(self):
         self.assertEqual(
             "enki".upper(),
             "ENKI"
