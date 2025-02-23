@@ -10,3 +10,6 @@ class SimpleTest(unittest.TestCase):
             "enki".upper(),
             "ENKI"
         )
+
+if __name__ = "__main__":
+    unittest.main()
